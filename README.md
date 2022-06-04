@@ -4,7 +4,7 @@ This is a multiple choice adventure comedy game developed using Ren'Py. The game
 
 I wrote this software in order to enhance my game development skillset and create an entertaining story-driven experience.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fSHLMavbgAo))
 
 # Development Environment
 
